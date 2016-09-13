@@ -1,4 +1,4 @@
-# LOOP Sample Trips/Drives
+# LOOP Sample Drives
 
 ## Prerequisites:
   * Android 4.4+
