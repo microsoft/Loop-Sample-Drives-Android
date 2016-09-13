@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Trips</string>
+    <string name="trips">TRIPS</string>
+    <string name="drives">DRIVES</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="drives_recording_on">DRIVE RECORDING ON</string>
+    <string name="drives_recording_off">DRIVE RECORDING OFF</string>
+
+    <string name="trips_recording_on">TRIP RECORDING ON</string>
+    <string name="trips_recording_off">TRIP RECORDING OFF</string>
+
+    <string name="delete_drive">Delete Drive</string>
+    <string name="back_to_main">Back to main view</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="about">ABOUT</string>
+    <string name="title_activity_maps1">Map</string>
+    <string name="helpusimprove">HELP US IMPROVE</string>
+    <string name="title_activity_maps3">Map</string>
+
+</resources>
